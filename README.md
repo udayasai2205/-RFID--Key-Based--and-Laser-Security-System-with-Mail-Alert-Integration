@@ -1,0 +1,2 @@
+#  RFID, Key-Based, and Laser Security System with Mail Alert Integration
+ This project involves the design and implementation of a comprehensive security system that integrates RFID (Radio Frequency Identification) technology, traditional key-based access, a laser security grid, and an email alert system. By combining these technologies, the system offers multiple layers of security, ensuring maximum protection and real-time monitoring.
